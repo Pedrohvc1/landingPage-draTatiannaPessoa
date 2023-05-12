@@ -404,7 +404,6 @@
     margin-bottom: 0.74rem;
   }
   
-  
   #testimonials {
     background: white;
   }
@@ -459,6 +458,7 @@
   .swiper-slide {
     height: auto;
     padding: 4rem 1rem;
+    max-width: 100%;
   }
   
   .swiper-pagination-bullet-active {
